@@ -31,5 +31,5 @@ public:
             }
         }
         return res;
-    }
+    }  //this code uses the concept of binary search
 };
